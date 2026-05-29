@@ -6,7 +6,7 @@
 ## 遊戲玩法
 玩家需交替敲擊鍵盤A、D鍵累積進度，過程中會有多樣化的隨機干擾事件，玩家必須同時利用滑鼠進行排除。 進度達成後，將結算並顯示本次的通關總耗時。
 ## 遊戲下載
-https://drive.google.com/file/d/1BvikY_TZghz5lwAPB3hNjYd7lfV72zJ2/view?usp=sharing
+https://drive.google.com/file/d/1BvikY_TZghz5lwAPB3hNjYd7lfV72zJ2/view?usp=sharing  
 下載解壓縮後，打開TeamC.exe即可。(注意音量)
 ***
 ![image](https://github.com/peazzz/My-Website/blob/main/img/video/YouShallNotPass.gif)
