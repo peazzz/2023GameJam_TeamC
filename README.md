@@ -9,4 +9,4 @@
 https://drive.google.com/file/d/1BvikY_TZghz5lwAPB3hNjYd7lfV72zJ2/view?usp=sharing  
 下載解壓縮後，打開TeamC.exe即可。(注意音量)
 ***
-![image](https://github.com/peazzz/My-Website/blob/main/img/video/YouShallNotPass.gif)
+![image](https://github.com/peazzz/My-Website/blob/main/img/gif/YouShallNotPass.gif)
